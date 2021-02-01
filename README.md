@@ -1,0 +1,1 @@
+This is our first try to make to 2D game with Python.
